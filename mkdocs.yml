@@ -1,10 +1,10 @@
-site_name: 国光的 PVE 环境搭建教程
-site_url: https://pve.sqlsec.com
-site_author: 国光
-site_description: "国光的 PVE 环境搭建教程"
-repo_name: sqlsec/PVE
-repo_url: https://github.com/sqlsec/PVE
-copyright: Copyright &copy;  国光
+site_name: PVE 环境搭建教程
+site_url: https://acanx.github.io/PVE/
+site_author: ACANX
+site_description: "PVE 环境搭建教程"
+repo_name: ACANX/PVE
+repo_url: https://github.com/ACANX/PVE
+copyright: Copyright &copy;  ACANX
 theme:
   name: material
   custom_dir: overrides
@@ -68,8 +68,8 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/redhat
-      link: https://www.sqlsec.com
-      name: 国光
+      link: https://www.acanx.com
+      name: ACANX
 nav:
   - "index.md"
   - 准备工作:
