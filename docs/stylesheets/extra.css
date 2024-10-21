@@ -1,0 +1,42 @@
+
+.md-grid {
+    max-width: 1760px; 
+
+}
+
+:root > * {
+    /* // Code highlighting syntax color shades */
+    --md-code-hl-number-color: #d52a2a;
+    --md-code-hl-special-color: #db1457;
+    --md-code-hl-function-color: #e6c07b;
+    --md-code-hl-constant-color: #ccd0cd;
+    --md-code-hl-keyword-color: #c678dd;
+    --md-code-hl-string-color: #98c363;
+    --md-code-hl-name-color: #f2fcff;
+    --md-code-hl-operator-color: #f2fcff;
+    --md-code-hl-punctuation-color: #cb772f;
+    --md-code-hl-comment-color: #5c6370;
+    --md-code-hl-generic-color: #c9c1c9;
+    --md-code-hl-variable-color: #f2fcff;
+
+    --md-code-hl-color: #79c38e;
+    --md-code-fg-color: #a3b2bf;
+    --md-code-bg-color: #282c34;
+}  
+
+.linenodiv a {
+    /*  行号的颜色 */
+    color: #abb2bf; 
+    word-break: break-word;
+}
+
+.highlighttable .filename{
+        /*  行号的颜色 */
+        color: #abb2bf; 
+}
+
+:root {
+    --md-tooltip-width: 600px;
+
+}
+
