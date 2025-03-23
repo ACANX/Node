@@ -1,1 +1,1 @@
-[![](docs/imgs/cover.jpg)](https://pve.sqlsec.com/)
+[![ACANX](docs/imgs/cover.jpg)](https://pve.sqlsec.com/)
