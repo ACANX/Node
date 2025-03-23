@@ -31,9 +31,37 @@
 }
 
 .highlighttable .filename{
-        /*  行号的颜色 */
-        color: #abb2bf; 
+    /*  行号的颜色 */
+    color: #5c6370;
+
 }
+
+.language-text .filename{
+    color: #fff;
+}
+
+.language-bash .filename{
+    color: #fff;
+}
+
+.language-cmd .filename{
+    color: #fff;
+}
+
+.language-yaml .filename{
+    color: #fff;
+}
+
+.language-java .filename{
+    color: #fff;
+}
+
+.language-python .filename{
+    color: #fff;
+}
+
+
+
 
 :root {
     --md-tooltip-width: 600px;
