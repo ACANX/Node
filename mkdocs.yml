@@ -79,7 +79,7 @@ extra:
 nav:
   - "index.md"
   - 节点:
-    - 硬件配置: "1/1.md"
+    - 使用MKDocs发布Markdown文档: "1/1.md"
     - 系统选择: "1/2.md"
     - 磁盘划分: "1/3.md"
     - 架构规划: "1/4.md"
